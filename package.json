@@ -1,0 +1,26 @@
+{
+  "name": "rxjs-hello-world",
+  "version": "1.0.0",
+  "description": "A simple hello world on RxJS, following Scott Allen's pluralsight course",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonhoness/rxjs-hello-world.git"
+  },
+  "author": "Jon Honess",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonhoness/rxjs-hello-world/issues"
+  },
+  "homepage": "https://github.com/jonhoness/rxjs-hello-world#readme",
+  "dependencies": {
+    "rxjs": "^5.5.6"
+  },
+  "devDependencies": {
+    "ts-loader": "^3.5.0",
+    "typescript": "^2.7.1",
+    "typings": "^2.1.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
